@@ -20,3 +20,5 @@ Developped multiple functions, involving timers, messages, local storage, JSON.
 Live Site Link
 https://fmaldmed.github.io/Elden-Lord-Quiz/
 
+Github Repository
+https://github.com/fmaldmed/Elden-Lord-Quiz
